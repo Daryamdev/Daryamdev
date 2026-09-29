@@ -4,10 +4,10 @@ Python Developer | Building web applications ,integrating API'sand writing clean
 
 
 ###Tech Stack 
-* **Backend:** Python,FastAPI,Flask
+* **Backend:** Python,FastAPI,Flask,Django
 * **Databases:** SQLAlchemy
 * **Frontend/Templates:** HTML,CSS,JAVA SCRIPT,Jinja2,Tailwindcss
-* **Tools:** Git,GitHub,REST APIs (Spotify API)
+* **Tools:** Git,GitHub,REST APIs
 
 
 
